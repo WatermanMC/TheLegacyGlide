@@ -3,7 +3,7 @@
  *A Spigot plugin recreating the Glide minigame, developed by Darkmoon Studios.*  
 
 ![GitHub](https://img.shields.io/github/license/WatermanMC/TheLegacyGlide?color=blue)  
-![Spigot](https://img.shields.io/badge/Spigot-1.8--1.20-success)  
+![Spigot](https://img.shields.io/badge/Spigot-1.8--1.21-success)  
 
 ---
 
