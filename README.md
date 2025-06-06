@@ -1,2 +1,2 @@
 # TheLegacyGlide
-The legacy glide from 1.8
+The legacy glide minigame from minecraft legacy console edition
