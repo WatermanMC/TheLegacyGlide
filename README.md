@@ -21,6 +21,10 @@ This plugin brings the **Glide minigame** to Minecraft servers, where players na
 ✅ **Optimized Performance** – Lightweight and lag-free.  
 
 ---
+## Requirements
+1. [Vault plugin](https://www.spigotmc.org/resources/vault.34315/).
+2. Java 8 or higher
+3. Minecraft version 1.13+
 
 ## ⚙️ Installation  
 1. Download the latest `.jar` from [Releases](https://github.com/<username>/<repo>/releases).  
@@ -51,4 +55,4 @@ arenas:
   sky_glide:
     spawn: x, y, z, world
     elytra: true
-    reward: 100 coins
+    reward: 100
