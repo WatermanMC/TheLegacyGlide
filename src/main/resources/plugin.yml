@@ -1,1 +1,24 @@
+name: TheLegacyGlide
+version: 1.0-SNAPSHOT
+main: team.darkmoonstudios.watermanmc.thelegacyglide.TheLegacyGlide
+description: A Spigot plugin recreating the classic Glide minigame, where players navigate through obstacle courses to reach the bottom safely.
+api-version: '1.13'
+authors: [Darkmoon Studios]
+website: https://github.com/WatermanMC/TheLegacyGlide
+depend:
+  - Vault
 
+commands:
+  glide:
+    description: Main command for TheLegacyGlide minigame.
+    usage: "/<command> [join|leave|admin]"
+    aliases: [gl]
+    permission: glide.player
+
+permissions:
+  glide.player:
+    description: Allows players to join and leave Glide arenas.
+    default: true
+  glide.admin:
+    description: Grants administrative access to create and manage Glide arenas.
+    default: op
