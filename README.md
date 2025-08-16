@@ -1,6 +1,6 @@
 # The Legacy Glide
 
- *A Spigot plugin recreating the Glide minigame, developed by Darkmoon Studios.*  
+ *A Spigot plugin recreating the Glide minigame, developed by VOXELWARE Studios.*  
 
 ![GitHub](https://img.shields.io/github/license/WatermanMC/TheLegacyGlide?color=blue)  
 ![Spigot](https://img.shields.io/badge/Spigot-1.8--1.21-success)  
